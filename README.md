@@ -1,16 +1,61 @@
-## Hi there 👋
+# Faik Ismayilov
 
-<!--
-**Faik023/Faik023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Automation & Telegram Bot Developer
 
-Here are some ideas to get you started:
+I build automation tools, Telegram bots and monitoring scripts using Python and Linux servers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### Telegram Reminder Bot
+
+Telegram bot that sends reminders after a specified time.
+
+Features:
+
+* multi-threaded reminders
+* Telegram Bot API integration
+* runs as a systemd service on Linux VPS
+
+Tech:
+Python • Telegram API • Linux • systemd
+
+---
+
+### Telegram AI Bot
+
+Telegram bot with AI integration for automated conversations.
+
+Tech:
+Python • API integration • automation
+
+---
+
+### URL Monitoring Tool
+
+Script that checks website availability and sends alerts.
+
+Features:
+
+* uptime monitoring
+* logging system
+* Telegram alerts
+
+Tech:
+Python • Requests • monitoring automation
+
+---
+
+## Tech Stack
+
+Python
+Linux
+Telegram Bot API
+Git / GitHub
+Automation scripts
+Server deployment
+
+---
+
+## Contact
+
+Telegram: @FaikIsmayilov
